@@ -6,7 +6,7 @@ void c_core::init(bool debug) {
 	if (debug) {
 		m_debug_mode = true;
 	
-		g_console->init("VOID_PTR");
+		g_console->init("Hack CMD");
 
 		g_console->print("LIFE HACK BITCH");
 	}
