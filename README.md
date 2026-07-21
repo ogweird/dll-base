@@ -8,6 +8,6 @@ Cheat DLL library base.
 
 # WIP features
 - MinHook/Other hooking library integration
-- ImGui rendering system
+- ImGui based rendering system
 - GUI framework
 - Turning it into a cheat
